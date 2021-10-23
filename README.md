@@ -12,7 +12,3 @@
  ```
  MYCOMPUTER:FastAPI user$ docker-compose up --build
  ```
- 
-# FastAPI-PostgreSQL-Docker
-# FastAPI-PostgreSQL-Docker
-# FastAPI-PostgreSQL-Docker
